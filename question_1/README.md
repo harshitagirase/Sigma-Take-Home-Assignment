@@ -1,10 +1,10 @@
 ## Data Dictionary
 
-`campaign_name`: The name of the campaign.
-`campaign_type`: The type of the campaign.
-`responded`: The number of members that responded to the campaign.
-`campaign_cost`: The actual cost of the campaign.
-`avg_cost_per_attendee`: The average cost of the campaign per attendee. This is calculated by diving the total campaign cost by the number of campaign members that responded to the campaign.
+* `campaign_name`: The name of the campaign.
+* `campaign_type`: The type of the campaign.
+* `responded`: The number of members that responded to the campaign.
+* `campaign_cost`: The actual cost of the campaign.
+* `avg_cost_per_attendee`: The average cost of the campaign per attendee. This is calculated by diving the total campaign cost by the number of campaign members that responded to the campaign.
 
 
 ## Output
