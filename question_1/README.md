@@ -1,5 +1,8 @@
 ## Data Dictionary
 
+Data Source: `applications.salesforce.campaign`
+
+
 * `campaign_name`: The name of the campaign.
 * `campaign_type`: The type of the campaign.
 * `responded`: The number of members that responded to the campaign.
