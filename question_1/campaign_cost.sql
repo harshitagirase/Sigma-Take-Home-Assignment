@@ -28,5 +28,5 @@ final as (
 )
   
 select * from final
-order by avg_cost_per_attendee desc
-limit 10
+order by avg_cost_per_attendee desc -- sort by most costly campaign
+limit 10 -- we only want top 10 campaigns
