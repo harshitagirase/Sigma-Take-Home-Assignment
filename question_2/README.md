@@ -1,7 +1,12 @@
+## Problem
+Write a query that produces a result for the total active rows for each schema, each month, with a month-over-month percent change calculation.
+
+
+## Data Source
+`applications.fivetran_log.fivetran_log__mar_table_history`
+
+
 ## Data Dictionary
-
-Data Source: `applications.fivetran_log.fivetran_log__mar_table_history`
-
 
 * `measured_month`: The month when the data for the schema was measured.
 * `schema_name`: The name of the schema.
@@ -12,4 +17,3 @@ Data Source: `applications.fivetran_log.fivetran_log__mar_table_history`
 
 ## Output
 
-<img width="1142" alt="Screen Shot 2023-03-18 at 12 18 55 PM" src="https://user-images.githubusercontent.com/16471203/226132303-ef953b2f-1bba-474f-8e29-24299b71d15a.png">
