@@ -1,7 +1,12 @@
+## Problem
+Write a query that finds the top 10 most costly campaigns ran since 2022, where most costly is determined as the total campaign cost divided by the number of campaign members that responded to the campaign.
+
+
+## Data Source
+`applications.salesforce.campaign`
+
+
 ## Data Dictionary
-
-Data Source: `applications.salesforce.campaign`
-
 
 * `campaign_name`: The name of the campaign.
 * `campaign_type`: The type of the campaign.
