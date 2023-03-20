@@ -14,3 +14,5 @@ Write a query that finds the latest closed won opportunity by account and by opp
 
 
 ## Output
+
+<img width="1142" alt="Screen Shot 2023-03-19 at 10 20 30 PM" src="https://user-images.githubusercontent.com/16471203/226253284-6572d068-bd60-42b4-a850-a8ac13c0c337.png">
