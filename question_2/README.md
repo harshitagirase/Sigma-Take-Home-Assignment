@@ -16,6 +16,10 @@ Write a query that produces a result for the total active rows for each schema, 
 * `mom_pct_change`: The month-over-month percentage change for a given month. This is calculated by getting the difference between the current month and previous month's data and diving that value by the previous month's data. To convert it into a percentage value, we multiply the result by 100.
 
 
+## Notes
+For the bonus part of the question, I'd divide the number of days in the month by the number of days left in the month and multiply the result by the current usage for the ongoing month. Eg. If we were looking at the data on March 15, then the estimate for the month of March would be (31/(31-15) * current_usage).
+
+
 ## Output
 
 <img width="998" alt="Screen Shot 2023-03-20 at 1 39 54 AM" src="https://user-images.githubusercontent.com/16471203/226287865-4cfa2904-96aa-4078-b5f6-fdb02cac9993.png">
