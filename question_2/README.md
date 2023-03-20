@@ -19,5 +19,4 @@ Write a query that produces a result for the total active rows for each schema, 
 ## Output
 
 <img width="998" alt="Screen Shot 2023-03-20 at 1 39 54 AM" src="https://user-images.githubusercontent.com/16471203/226287865-4cfa2904-96aa-4078-b5f6-fdb02cac9993.png">
-
-<img width="999" alt="Screen Shot 2023-03-20 at 1 40 11 AM" src="https://user-images.githubusercontent.com/16471203/226287927-1b732be6-d22a-4fc5-adf9-aa9b54427c37.png">
+<img width="995" alt="Screen Shot 2023-03-20 at 1 41 00 AM" src="https://user-images.githubusercontent.com/16471203/226288112-57ea7682-6989-49f4-a2db-1857d1a11a60.png">
