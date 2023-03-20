@@ -21,7 +21,7 @@ I initially used the `number_of_responses` column in the `campaign` schema but r
 <img width="1140" alt="Screen Shot 2023-03-20 at 1 26 57 AM" src="https://user-images.githubusercontent.com/16471203/226285880-47bdcd0a-3004-4d9e-8c4e-025d38d5bd72.png">
 
 
-Also, the data is a little weird. I was exploring the `campaign` schema and the data in the schema was confusing. For a campaign member with status = 'Responded', the 'has_responded' field is set to 'false' which is odd.
+Also, the data is a little weird. I was exploring the `campaign` schema and the data in the schema was confusing. For a campaign member with status = `Responded`, the `has_responded` field is set to `false` which is odd.
 
 <img width="922" alt="Screen Shot 2023-03-20 at 1 15 34 AM" src="https://user-images.githubusercontent.com/16471203/226285923-645cb9ef-6819-4306-88f5-b7dd23a6e37f.png">
 
