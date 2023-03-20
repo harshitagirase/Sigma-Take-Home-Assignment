@@ -14,7 +14,7 @@ Write a query that finds the latest closed won opportunity by account and by opp
 * `sum_amount`: The dollar value corresponding to each opportunity where stage_name = `Closed Won`.
 
 ## Notes
-I verified the data in the schema to ensure that every opportunity record where `stage_name` = 'Closed Won' also had the `is_won` and `is_closed` columns set to `true`. 
+I verified the data in the schema to ensure that every opportunity record where `stage_name` = 'Closed Won' also had the `is_won` and `is_closed` columns set to `true`. In the case that the data were to be unclean (i.e. stage_name didn't reflect the data in `is_won` and `is_closed` fields, I would use those two fields to determine whether an opportunity was `Closed Won` or not.
 
 
 ## Output
