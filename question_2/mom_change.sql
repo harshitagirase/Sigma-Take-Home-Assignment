@@ -1,4 +1,4 @@
--- model: mom_change.sql
+-- model: mom_change
 -- grain: one record per measured month per schema name
 
 
