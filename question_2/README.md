@@ -1,5 +1,5 @@
 ## Problem
-Write a query that produces a result for the total active rows for each schema, each month, with a month-over-month percent change calculation.
+Write a query that produces a result for the total active rows for each schema, each month, with a month-over-month percent change calculation. BONUS — if the month is not complete, estimate the usage for that month
 
 
 ## Data Source
