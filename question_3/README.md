@@ -12,6 +12,9 @@ Write a query that finds the latest closed won opportunity by account and by opp
 * `type`: The type of the opportunity. This can be one of Upsell, Renewal or New Business.
 * `sum_amount`: The dollar value corresponding to each opportunity where stage_name = Closed Won.
 
+## Notes
+I verified the data in the schema to ensure that every opportunity record where `stage_name` = 'Closed Won' also had the `is_won` and `is_closed` columns set to `true`. 
+
 
 ## Output
 
