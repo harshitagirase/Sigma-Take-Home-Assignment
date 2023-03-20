@@ -16,6 +16,7 @@ opportunities as (
             order by close_date desc)
     as row_num
   from applications.salesforce.opportunity
+  -- can also leverage the `is_won` and `is_closed` boolean fields to filter records
   where stage_name = 'Closed Won' -- we only care about opportunities that are in the 'Closed Won' stage
 
 ),
