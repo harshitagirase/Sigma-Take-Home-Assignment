@@ -22,7 +22,7 @@ final as (
       campaign_type,
       responded,
       actual_cost,
-      actual_cost / number_of_responses as avg_cost_per_attendee
+      actual_cost / responded as avg_cost_per_attendee
     from source
     where start_date >= '2022-01-01' -- we only want to compare all campaigns that ran since 2022
 )
