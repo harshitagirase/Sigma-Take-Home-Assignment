@@ -18,6 +18,6 @@ Write a query that produces a result for the total active rows for each schema, 
 
 ## Output
 
-<img width="1018" alt="Screen Shot 2023-03-19 at 8 54 54 AM" src="https://user-images.githubusercontent.com/16471203/226188059-7178bfb9-e5e9-4d51-b5cf-1d49b65d4ecf.png">
+<img width="998" alt="Screen Shot 2023-03-20 at 1 39 54 AM" src="https://user-images.githubusercontent.com/16471203/226287865-4cfa2904-96aa-4078-b5f6-fdb02cac9993.png">
 
-<img width="1018" alt="Screen Shot 2023-03-19 at 8 55 21 AM" src="https://user-images.githubusercontent.com/16471203/226188079-64c685e1-8113-4969-8171-9517e816de3d.png">
+<img width="999" alt="Screen Shot 2023-03-20 at 1 40 11 AM" src="https://user-images.githubusercontent.com/16471203/226287927-1b732be6-d22a-4fc5-adf9-aa9b54427c37.png">
