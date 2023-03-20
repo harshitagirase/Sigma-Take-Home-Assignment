@@ -4,6 +4,7 @@ Write a query that finds the top 10 most costly campaigns ran since 2022, where 
 
 ## Data Source
 `applications.salesforce.campaign`
+`applications.salesforce.campaign_member`
 
 
 ## Data Dictionary
